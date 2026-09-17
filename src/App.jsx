@@ -584,7 +584,7 @@ function App() {
             href="https://wa.me/7408780796"
             className="mt-9 inline-flex items-center gap-2 rounded-full bg-[#7FC331] px-8 py-4 font-bold text-slate-950 transition hover:bg-[#3c7100] hover:text-white"
           >
-            Ravi Madarchod
+            Start Your Project
             <ArrowRight size={19} />
           </a>
           <p className="mt-5 text-sm text-slate-400">
@@ -656,7 +656,7 @@ function App() {
 
         <div className="border-t border-slate-200">
           <div className="mx-auto flex max-w-7xl flex-col justify-between gap-3 px-5 py-5 text-sm text-slate-500 sm:flex-row md:px-8">
-            <p>© 2026 Al Buraq Web Solution. All Rights Reserved.</p>
+            <p>© 2028 Al Buraq Web Solution. All Rights Reserved.</p>
 
             <p>
               A <span className="font-semibold text-slate-800">BWS</span>{" "}
