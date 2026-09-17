@@ -656,7 +656,7 @@ function App() {
 
         <div className="border-t border-slate-200">
           <div className="mx-auto flex max-w-7xl flex-col justify-between gap-3 px-5 py-5 text-sm text-slate-500 sm:flex-row md:px-8">
-            <p>© 2028 Al Buraq Web Solution. All Rights Reserved.</p>
+            <p>© 2026 Al Buraq Web Solution. All Rights Reserved.</p>
 
             <p>
               A <span className="font-semibold text-slate-800">BWS</span>{" "}
